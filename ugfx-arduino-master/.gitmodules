@@ -1,3 +1,0 @@
-[submodule "libraries/ugfx-arduino-gdisp-ssd1351"]
-	path = libraries/ugfx-arduino-gdisp-ssd1351
-	url = https://github.com/crteensy/ugfx-arduino-gdisp-ssd1351.git
