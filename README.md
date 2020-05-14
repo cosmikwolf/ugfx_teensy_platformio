@@ -12,4 +12,4 @@ This project is based on the UGFX teensy demo, but has been implemented with the
 The secret sauce of this project lies in the library.json files included in the libraries in the lib folder. These files use a build configuration array, inside of which a srcFilter resides. This srcFilter defines where the source files for the library are defined, so that other libraries referencing this library will be able to find the headers and source files necessary. This is a complex system, and changing these in anyway might result in an incompatible build.
 
 
-
+I leveraged the work done by ugfx-arduino to make this happen https://github.com/crteensy/ugfx-arduino 
